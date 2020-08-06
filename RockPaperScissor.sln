@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{AD8DE7FA-4683-4346-832B-C0FFDD3EAD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsConsole", "RockPaperScissorsConsole\RockPaperScissorsConsole.csproj", "{78A9B35F-266E-4071-89A2-D6D198C66D3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{A5134D37-C230-475E-AF20-2A8693184A43}"
+	ProjectSection(SolutionItems) = preProject
+		RockPaperScissor\Models\Computer.cs = RockPaperScissor\Models\Computer.cs
+		RockPaperScissor\Models\Game.cs = RockPaperScissor\Models\Game.cs
+		RockPaperScissor\Models\Player.cs = RockPaperScissor\Models\Player.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8DE7FA-4683-4346-832B-C0FFDD3EAD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8DE7FA-4683-4346-832B-C0FFDD3EAD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8DE7FA-4683-4346-832B-C0FFDD3EAD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8DE7FA-4683-4346-832B-C0FFDD3EAD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A9B35F-266E-4071-89A2-D6D198C66D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A9B35F-266E-4071-89A2-D6D198C66D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A9B35F-266E-4071-89A2-D6D198C66D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A9B35F-266E-4071-89A2-D6D198C66D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE2308B1-A49E-4791-83E4-2D2A346AB3FC}
+	EndGlobalSection
+EndGlobal
