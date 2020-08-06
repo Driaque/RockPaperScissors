@@ -12,7 +12,6 @@ A simple console game that runs the Rock Paper Scissors Engine. Player gets to p
 # Models
 
 # Player
-+ Name
 + Choice
 + Score
 _______________
