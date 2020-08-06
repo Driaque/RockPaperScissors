@@ -1,7 +1,10 @@
 # RockPaperScissors
 A simple console game that runs the Rock Paper Scissors Engine. Player gets to play random computer or tactical computer.
 
-#Actors
+# Design Approach
+- Domain Driven Design 
+
+# Actors
 - Game
 - Player
 - Computer
@@ -12,7 +15,7 @@ A simple console game that runs the Rock Paper Scissors Engine. Player gets to p
 + Name
 + Choice
 + Score
-
+_______________
 + play()
 
 # Computer
@@ -21,7 +24,7 @@ A simple console game that runs the Rock Paper Scissors Engine. Player gets to p
 + LastChoice
 + NextBestChoice
 + Score
-
+________________
 + playRandom()
 + playNextBest()
 
@@ -32,7 +35,7 @@ A simple console game that runs the Rock Paper Scissors Engine. Player gets to p
 + Mode
 + OverallWinner
 + replay
-
+________________
 + init()
 + chooseMode()
 + chooseOpponent()
