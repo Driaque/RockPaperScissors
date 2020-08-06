@@ -45,6 +45,10 @@ ________________
 + displayWinner()
 + promptReplay()
 
+# How to Run Application
+There are two ways to run the application;
+1. Locate the executable file in \RockPaperScissorsConsole\bin\Debug and open it to play game
+2. Load the Project File in Visual Studio and Start Project.
 
 ## Future Extensions
 - Text formatting for console app
