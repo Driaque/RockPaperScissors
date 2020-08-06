@@ -1,7 +1,7 @@
 # RockPaperScissors
 A simple console game that runs the Rock Paper Scissors Engine. Player gets to play random computer or tactical computer.
 
-##Actors
+#Actors
 - Game
 - Player
 - Computer
